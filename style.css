@@ -4,7 +4,14 @@ img{
     width: 330px;
     height: 180px;
 }
-div{
+.searchbar{
+    margin-left: 300px;
+    padding: 0px;
+    height: 30px;
+    font-size: 14pt; 
+    width: 800px;
+}
+.searchbutton{
     margin-left: 300px;
     padding: 0px;
     height: 30px;
