@@ -6,11 +6,13 @@ img{
 }
 
 .searchbutton{
-    margin-left: 300px;
+    margin-left: 500px;
     padding: 0px;
     height: 30px;
     font-size: 14pt; 
     width: 800px;
+    margin-top: 30px;
+    
 }
 
 .bar{
