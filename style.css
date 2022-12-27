@@ -40,5 +40,23 @@ img{
     margin-left: 650px;
   }
 
-  
- 
+.link1{
+  margin-top: 20px;
+  margin-left: 1000px;
+}
+.link2{
+  margin-top: -24px;
+  margin-left: 1115px;
+}
+
+.link1:hover{
+  text-underline-position: below;
+}
+
+.link2:hover{
+  text-underline-position: below;
+}
+
+a{
+  color: black;
+}
