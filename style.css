@@ -1,31 +1,30 @@
 img{
     margin-left: 480px;
     margin-top: 15px;
-    width: 300px;
-    height: 160px;
+    width: 290px;
+    height: 150px;
 }
 
 .searchbutton{
     margin-left: 500px;
     padding: 0px;
     height: 30px;
-    font-size: 14pt; 
+    font-size: 12pt; 
     width: 800px;
     margin-top: 30px;
-    
 }
 
 .bar{
     margin:0 auto;
     width:575px;
-    border-radius:30px;
-    border:1px solid #dcdcdc;
+    border-radius:34px;
+    border:1px solid #00000068;
   }
   .bar:hover{
-    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    box-shadow: 1px 1px 8px 2px #dcdcdc;
   }
   .bar:focus-within{
-    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    box-shadow: 1px 1px 8px 2px #dcdcdc;
     outline:none;
   }
   .searchbar{
@@ -36,4 +35,7 @@ img{
     outline: none;
     
   }
+  
+
+  
  
