@@ -49,11 +49,11 @@ img{
   margin-left: 1115px;
 }
 
-a{
+.linkcss{
   color: black;
 }
 
-a:hover{
+.linkcss:hover{
   text-underline-position: below;
   color: black;
 }
@@ -70,4 +70,9 @@ a:hover{
 .mic{
    margin-top: -50px;
    margin-left: 405px;
+}
+
+.link3{
+  margin-top: 20px;
+  margin-left: 1115px;
 }
