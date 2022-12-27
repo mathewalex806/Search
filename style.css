@@ -6,7 +6,7 @@ img{
 }
 
 .searchbutton{
-    margin-left: 500px;
+    margin-left: 480px;
     padding: 0px;
     height: 30px;
     font-size: 12pt; 
@@ -37,7 +37,7 @@ img{
   }
   .feelbutton{
     margin-top: -30px;
-    margin-left: 650px;
+    margin-left: 630px;
   }
 
 .link1{
@@ -49,14 +49,11 @@ img{
   margin-left: 1115px;
 }
 
-.link1:hover{
-  text-underline-position: below;
-}
-
-.link2:hover{
-  text-underline-position: below;
-}
-
 a{
+  color: black;
+}
+
+a:hover{
+  text-underline-position: below;
   color: black;
 }
