@@ -1,8 +1,10 @@
-img{
-    margin-left: 480px;
-    margin-top: 15px;
+.img1{
     width: 290px;
     height: 150px;
+}
+.imgm{
+  margin-left: 480px;
+  margin-top: 15px;
 }
 
 .searchbutton{
@@ -68,8 +70,8 @@ img{
   width: 22px;
 }
 .mic{
-   margin-top: -50px;
-   margin-left: 405px;
+   margin-top: -40px;
+   margin-left: 890px;
 }
 
 .link3{
@@ -77,16 +79,9 @@ img{
   margin-left: 1115px;
 }
 
-.lens{
-  margin-top: -50px;
-   margin-left: 405px;
-}
-.lenscss{
-  height: 22px;
-  width: 22px;
-}
 .adimage{
-  margin-left: -465px;
+  margin-left: 0px
+  
 
 }
 .adimgcss{
