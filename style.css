@@ -19,8 +19,8 @@
 .bar{
     margin:0 auto;
     width:575px;
-    border-radius:34px;
-    border:1px solid #00000068;
+    border-radius:39px;
+    border:2px solid #0000005e;
   }
   .bar:hover{
     box-shadow: 1px 1px 8px 2px #dcdcdc;
