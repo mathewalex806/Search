@@ -10,16 +10,26 @@
             <a class="linkcss" href="test1.html">Google Search</a>
         </div>
 
-        <div class="image">
+        <div class="adimg">
             <img class="adimgcss" src="https://logos-world.net/wp-content/uploads/2020/09/Google-Logo.png" alt="Image">
         </div>
 
+        <p class="heading">Advanced Search</p>
+        <hr>
+
         <form action="https://google.com/search">
-            All these words:<input type="text" name="as_q" >
-           <br><br>Exact word/phrase:<input type="text" name="as_epq" >
-           <br><br>Any of these words:<input type="text" name="as_oq" >
-           <br><br>None of these words:<input type="text" name="as_eq" >
-          <br><br> <input type="submit" value="advanced search">
+            <p class="text2">Find pages with...</p>
+
+
+           <p class="text1"> all these words:   <input type="text" name="as_q" size="100"><p class="subtext">Type the important words: tri-colour rat terrier</p></p>
+           <p class="text1">exact word/phrase: <input type="text" name="as_epq" size="100" >   <p class="subtext">Put exact words in quotes: "rat terrier"</p></p>
+          <p class="text1">any of these words: <input type="text" name="as_oq" size="100" >   <p class="subtext">Type OR between all the words you want: miniature OR standard</p></p>
+          <p class="text1">none of these words: <input type="text" name="as_eq" size="100">  <p class="subtext">Put a minus sign just before words that you don't want: -rodent, -"Jack Russell"</p></p>
+            <br>
+            <div class="advsearch">
+                <input class="btn btn-primary" type="submit" value="Advanced Search" >
+            </div>
+             
 </form>
     </body>
 </html>
